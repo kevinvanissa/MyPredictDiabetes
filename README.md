@@ -14,5 +14,5 @@ In addition to the algorithms mentioned, PyTorch is also being used to create an
 There is some initial work in the notebook.
 
 ## Future Work
-Additional strategies for feature engineering will be performed to systematically choose features
-Need to improve on PyTorch code
+* Additional strategies for feature engineering will be performed to systematically choose features
+* Need to improve on PyTorch code
