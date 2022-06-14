@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The aim of this project is to explore the use of ML algorithms to predict the likelihood of an individual developing diabetes. This data is from the Behavioral Risk Factor Surveillance System (BRFSS) for 2020 and the data is available here: https://www.cdc.gov/brfss/annual_data/annual_2020.html.
+The aim of this project is to explore the use of ML algorithms to predict the likelihood of an individual developing diabetes [[Main notebook]](./MainDiseasePrediction.ipynb). This data is from the Behavioral Risk Factor Surveillance System (BRFSS) for 2020 and the data is available here: https://www.cdc.gov/brfss/annual_data/annual_2020.html.
 
 ## Project Overview
 - Created a tool that given patient lifestyle attributes, will predict the possibility of developing diabetes.
