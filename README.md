@@ -38,7 +38,7 @@ The models were evaluated based on accuracy. The results were:
 The chosen model (LogisticRegression) was saved and used to build a simple application that was hosted in the clould on Google Run and also on Google's Kubernetes Engine.
 You can test it here: [Diabetes Predictor](https://diabetes-prediction-app-service-xozecmjmga-uc.a.run.app/ "Link to Diabetes Predictor")
 
-In addition to the algorithms mentioned, PyTorch is also being used to create an ANN to see if we could improve our accuracy of 73% in the above algorithms.
+In addition to the algorithms mentioned, PyTorch was also being used to create an ANN to see if we could improve our accuracy of 73% in the above algorithms [[PyTorch notebook]](./DiseasePredictionPyTorch.ipynb).
 Another notebook was created utilizing the final processed dataframe from this notebook. After running our basic deep learning model using PyTorch, we basically did see any improvement.
 
 ## Future Work
